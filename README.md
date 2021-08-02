@@ -2,7 +2,7 @@
 
 A Simple vanilla JavaScript Project
 
-There are difference between
+There are
 
 -Future Date &
 -Timer
